@@ -1,5 +1,5 @@
 {
-  "name": "lukepolo/laracart",
+  "name": "akincand/laravel-cart",
   "description": "A simple cart for Laravel",
   "keywords": [
     "laravel",
@@ -7,13 +7,13 @@
     "shopping",
     "shopping cart"
   ],
-  "homepage": "https://github.com/lukepolo/laracart",
+  "homepage": "https://github.com/akincand/laravel-cart",
   "license": "MIT",
   "authors": [
     {
-      "name": "Luke Policinski",
-      "email": "Luke@LukePOLO.com",
-      "homepage": "http://LukePOLO.com"
+      "name": "Akıncan Demirel",
+      "email": "akincand@yandex.com",
+      "homepage": "http://google.com"
     }
   ],
   "require": {
